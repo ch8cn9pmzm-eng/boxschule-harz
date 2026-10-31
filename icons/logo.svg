@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 64" role="img" aria-label="Boxschule Harz">
+  <rect x="0" y="8" width="48" height="48" rx="10" fill="#0b3d91"/>
+  <path d="M12 40c6-14 18-22 24-24 2 8-2 20-10 28-4 4-10 6-14 4z" fill="#fff" opacity=".95"/>
+  <circle cx="28" cy="22" r="5" fill="#7eb6ff"/>
+  <text x="64" y="42" font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif" font-size="28" font-weight="800" fill="#0b3d91" letter-spacing=".02em">BOXSCHULE <tspan fill="#1a6bdc">HARZ</tspan></text>
+</svg>
